@@ -1,0 +1,11 @@
+Log: ./BSALog.txt
+New Archive
+Check: Meshes
+Check: Textures
+Check: Misc
+Check: Compress Archive
+Check: Retain Directory Names
+Check: Retain File Names
+Set File Group Root: Data\
+Add File Group: ./BSAManifest.txt
+Save Archive: ./MODNAME_HERE.bsa
