@@ -8,4 +8,4 @@ Check: Retain Directory Names
 Check: Retain File Names
 Set File Group Root: Data\
 Add File Group: ./BSAManifest.txt
-Save Archive: ./MODNAME_HERE.bsa
+Save Archive: ./MOD_NAME_HERE.bsa

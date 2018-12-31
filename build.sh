@@ -26,13 +26,13 @@ FLAGS="${SKYRIM_SOURCES}/TESV_Papyrus_Flags.flg"
 # You will definitely want to change serveral of these.
 # ----------------------------------------------------------
 # The version to release the mod with
-VERSION="1.0"
+VERSION="VERSION_HERE"
 # The name of the folder in which the mod will be built
 TEMP_FOLDER="temp"
 # The name to use for the esp / bsa / modgroups / ini file.
-ESP_NAME="Perk Points at Skill Levels 50-75-100"
+ESP_NAME="ESP_NAME_HERE"
 # The name to use for logging and the release file
-MOD_NAME="Ordinator - More Perk Points - Unofficial Tweak"
+MOD_NAME="MOD_NAME_HERE"
 # The name to use for the release file
 RELEASE_NAME="${MOD_NAME} v${VERSION}.7z"
 
